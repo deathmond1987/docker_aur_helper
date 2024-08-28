@@ -52,7 +52,7 @@ COPY <<EOF /man
 error: nothing to build!
 
    Usage:
-       docker run -v ./out:"$PKGDEST" container_name conky
+       docker run -v ./out:"$PKGDEST" container_name openenroth
        docker run -v ./out:"$PKGDEST" container_name zsh conky -d -s
 
    Options:
