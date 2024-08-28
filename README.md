@@ -9,4 +9,4 @@ simple aur client in container.
        -d - download all package deps to /out dir
        -s - disable package signature check
    ```
-   package will store in "/out" dir
+package will store in "/out" dir
